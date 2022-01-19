@@ -169,6 +169,6 @@ document.addEventListener('DOMContentLoaded', () => {
     }
   }
 
-  const interval = setInterval(draw, 25);
+  const interval = setInterval(draw, 10);
 });
 
